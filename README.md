@@ -1,3 +1,3 @@
 # learn_C_sharp
 
-Repositório com a finalidade de aprender a linguagem C#.
+## Repositório com a finalidade de aprender a linguagem C#.
